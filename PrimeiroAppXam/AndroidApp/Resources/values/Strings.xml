@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="Hello">Contador de Clicks</string>
+  <string name="Cadastro">Cadastro de Pessoas</string>
+	<string name="ApplicationName">AndroidApp</string>
+</resources>
